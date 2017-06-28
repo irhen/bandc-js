@@ -1,2 +1,2 @@
 # bandc-js
-bandc in js!
+bulls and cows in js!
