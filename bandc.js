@@ -21,7 +21,7 @@ let config = {
       first: [10, 20, 10],
       second: [10, 20, 10]
     }
-  }
+  },
 };
 
 // the helper-function taking exactly *num* random unique digits from a given array;
